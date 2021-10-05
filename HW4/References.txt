@@ -1,0 +1,9 @@
+https://github.com/talwiener/ds_hw3
+
+https://towardsdatascience.com/statistical-modeling-with-pomegranate-fast-and-intuitive-4d605d9c33a9
+
+https://github.com/jmschrei/pomegranate/tree/master/tutorials
+
+https://github.com/jmschrei/pomegranate/blob/master/tutorials/B_Model_Tutorial_4_Bayesian_Networks.ipynb
+
+https://github.com/jmschrei/pomegranate/blob/master/tutorials/B_Model_Tutorial_4b_Bayesian_Network_Structure_Learning.ipynb
