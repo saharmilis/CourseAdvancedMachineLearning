@@ -1,0 +1,9 @@
+Microsoft Research Paraphrase Corpus (MRPC/MSRP)
+https://www.microsoft.com/en-us/download/details.aspx?id=52398
+https://drive.google.com/drive/folders/1teCaw7qrqHTX5gLppKncfwhEgvCSwK01?usp=sharing
+
+Quara
+https://drive.google.com/drive/folders/16z159hTstrmppBLYyJH7nJF2nidbU2ws?usp=sharing
+
+Fake News
+https://drive.google.com/file/d/1dFTh6OtrIyGqEz1xzectGD-AeDnAqu-I/view
